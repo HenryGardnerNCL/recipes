@@ -1,5 +1,5 @@
 # Ingredients
-- peas
-- spring onions
-- potato
+- peas [£3]
+- spring onions [£0.80]
+- potato [£1.20]
 # Intructions
